@@ -1,2 +1,2 @@
 # OOP
-OOP codes
+OOP codes purpose only
